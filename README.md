@@ -6,10 +6,10 @@ Feel free to participate by commenting, doing pull requests, or emailing me: suk
 
 In the future, dictionaries __may__ be bundled in software.
 
-- **libreoffice**: [Lojban LibreOffice / OpenOffice spell check dictionary](libreoffice/lo-oo-dictionary-jbo-v2017.07.26.oxt)
+- **libreoffice**: [Lojban LibreOffice / OpenOffice spell check dictionary](https://github.com/Sukender/lojban-spell-check-dist/raw/master/libreoffice/lo-oo-dictionary-jbo-v2017.07.26.oxt)
   - Simply double-click it to install or update.
   - You may need to restart the application, and select the language of your document.
-- **firefox**: [Lojban Firefox spell check dictionary](firefox/firefox-dictionary-jbo-v2017.07.26.xpi)
+- **firefox**: [Lojban Firefox spell check dictionary](https://github.com/Sukender/lojban-spell-check-dist/raw/master/firefox/firefox-dictionary-jbo-v2017.07.26.xpi)
   - Double-click it to install. If the file extension is not associated, simply tell your system to open it with Mozilla Firefox.
 - **hunspell**: Hunspell / Myspell files
   - For advanced users. Under Linux, You may want to copy/install in ```/usr/share/hunspell/``` and ```/usr/share/myspell/dicts``` (with or without symlinks).
