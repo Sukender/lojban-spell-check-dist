@@ -1,3 +1,6 @@
 * text=auto
+.gitattributes eol=lf
 *.dic eol=lf
 *.aff eol=lf
+*.dic eol=crlf
+
