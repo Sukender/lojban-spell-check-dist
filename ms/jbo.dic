@@ -191,6 +191,7 @@
 .arxokuna
 .asfalte
 .aski
+asna
 .asna
 .asnaptca
 .asnrlatna
@@ -7394,7 +7395,7 @@ batci
 batfendi
 batkakpa
 batke
-batke zei uidje
+batkezeiuidje
 batkyci'a
 batkyfoi
 batkyke'a
@@ -8392,7 +8393,8 @@ bigji'i
 biglogji
 bigygau
 bi'i
-bi'in zei uanta
+bi'in
+bi'inzeiuanta
 bijgri
 bijyjbu
 bijyku'a
@@ -8959,7 +8961,7 @@ caltaismi
 caltre
 calxra
 calze'a
-ca ma
+cama
 camcarvi
 camcikna
 camcilce
@@ -8993,7 +8995,7 @@ canja
 canko
 cankyuidje
 canlu
-canlu bu
+canlubu
 canma
 canpa
 canratni
@@ -9044,7 +9046,7 @@ carvrama'ecarce
 carvyrictu'a
 casnu
 catke
-catke zei uidje
+catkezeiuidje
 catlpero
 catlu
 catni
@@ -9085,7 +9087,7 @@ ce
 ce'a
 ce'ai
 ce'au
-ce'a zei ciste
+ce'azeiciste
 cecla
 cecmu
 cedra
@@ -9427,7 +9429,7 @@ circre
 circtu
 cirko
 cirla
-cirla zei burgere
+cirlazeiburgere
 cirlnrokforte
 cirlnxiogluto
 cirlrbri
@@ -9459,7 +9461,7 @@ cirske
 cirvai
 cirvei
 ciska
-ciska zei uidje
+ciskazeiuidje
 cisma
 cismyfra
 cismytai
@@ -9495,13 +9497,13 @@ ci'u
 civla
 civysfani
 cizda'u
-ci zei brinefa
-ci zei jurfuga
-ci zei karsna
-ci zei mektika
-ci zei sumtika
-ci zei tuple
-ci zei zgabube
+cizeibrinefa
+cizeijurfuga
+cizeikarsna
+cizeimektika
+cizeisumtika
+cizeituple
+cizeizgabube
 cizra
 cizrkafka
 cizyselji'u
@@ -10107,7 +10109,7 @@ cu'alvu'u
 cu'arkubli
 cu'au
 cu'au'ei
-cu'a zei fancu
+cu'azeifancu
 cucma'e
 cucti'e
 cucycau
@@ -10186,7 +10188,7 @@ cutygaipalku
 cutygreku
 cutyti'e
 cu'u
-cu'u ko'a
+cu'uko'a
 cu'upre
 cu'urga'o
 cu'urkalri
@@ -10571,7 +10573,7 @@ denke'a
 denmi
 denmikce
 denpa
-denpa bu
+denpabu
 denpesxu
 denrixtolku'o
 denrixtolku'oti'e
@@ -10618,7 +10620,7 @@ desyzu'e
 detcacryvu'u
 detcartu
 detci'e
-detci'e zei nanca
+detci'ezeinanca
 detcku
 detfukcru
 detke'u
@@ -10901,7 +10903,8 @@ driselsa'a
 dritrasma
 drojbama
 dromaiu
-dropanra zei ionti
+dropanra
+dropanrazeiionti
 drotabno
 drudi
 drutapla
@@ -10996,7 +10999,7 @@ dutso
 dutydikca
 dutyku'arka
 du'u
-du'u bu
+du'ubu
 du'ukau
 du'umdu
 du'umrei
@@ -11064,6 +11067,7 @@ dzusoi
 .e'icu'i
 .ei'e
 .ei'i
+eikse
 .eikse
 .eilga
 .einai
@@ -11071,6 +11075,7 @@ dzusoi
 .e'inde
 .einvi
 .eiste
+.ek
 .eklipsa
 .ekra
 .ekse
@@ -11081,7 +11086,7 @@ dzusoi
 .eksplicite
 .eksporte
 .eksyplini
-.ek zei uanta
+.ekzeiuanta
 .eldicka'u
 .elei'anor
 .elfe
@@ -11794,7 +11799,7 @@ ga'e
 ga'ei
 ga'elfu
 ga'elto'a
-ga'e zei lerfu
+ga'ezeilerfu
 ga'ezga
 gafto'a
 gafto'atci
@@ -11907,7 +11912,7 @@ ga'u'au
 gau'i'o
 gaukla
 gaupli
-ga'u re'o
+ga'ure'o
 gaurkalsa
 gaurtcini
 gaurzu'e
@@ -11933,12 +11938,13 @@ geirki'a
 geirxe'o
 geizma
 gejrdauko
+gek
 gekcisma
 gekmau
 geknimi
 gekpanpi
 gekrai
-gek zei uanta
+gekzeiuanta
 gelsevu
 gendra
 genja
@@ -11989,12 +11995,14 @@ gicmu
 gidva
 gi'e
 gi'ei
-gi'ek zei uanta
+gi'ek
+gi'ekzeiuanta
 gi'enai
 gigbivysamsle
 gigdo
 gi'i
-gik zei uanta
+gik
+gikzeiuanta
 gimkamsmikezypro
 gimlebvla
 gimpro
@@ -12140,12 +12148,14 @@ greblopre
 grece'i
 gredile
 gregau
-gregori zei nanca
+gregori
+gregorizeinanca
 greke'a
 greku
-greku zei uidje
+grekuzeiuidje
 gretera
-gribatke zei uidje
+gribatke
+gribatkezeiuidje
 gricniselsa'a
 grifone
 grigoris
@@ -12213,7 +12223,8 @@ gubyternoi
 gubyxluselsku
 gubzu'e
 gu'e
-gu'ek zei uanta
+gu'ek
+gu'ekzeiuanta
 gugbandu
 gugbinselnu'e
 gugde
@@ -12491,7 +12502,7 @@ gugnai
 gugyka'i
 gugykruca
 gugyl
-gugyl zei zamgri
+gugylzeizamgri
 gugypa'i
 gugypau
 gugypausle
@@ -12519,7 +12530,7 @@ gunmace
 gunrivzu'e
 gunrizu
 gunro
-gunro zei uidje
+gunrozeiuidje
 gunrymuvdu
 gunse
 gunstu
@@ -12720,6 +12731,7 @@ INternet
 .i'onai
 .ionmo
 .i'onmo
+ionti
 .ionti
 .i,osif
 .iosna
@@ -13148,8 +13160,9 @@ jegycestu'a
 jei
 je'i
 jei'u
+jek
 jeku'i
-jek zei uanta
+jekzeiuanta
 jelca
 jelgau
 jelgauca'a
@@ -13194,7 +13207,7 @@ jetka'ubivmei
 jetlai
 jetmlu
 jetnu
-jetnu zei uidje
+jetnuzeiuidje
 jetpai
 jetrinsku
 jetycipra
@@ -13453,9 +13466,12 @@ jo'i
 joi'au'a
 joibu
 joi'i
-joikek zei uente
-joikijek zei uente
-joik zei uanta
+joik
+joikek
+joikekzeiuente
+joikijek
+joikijekzeiuente
+joikzeiuanta
 jomcmi
 jonai
 jongau
@@ -13636,7 +13652,7 @@ kabryca'u
 kabrydekpu
 kabrylai
 kabryselmre
-ka bu
+kabu
 kacma
 kacmre
 kacmyterxra
@@ -13741,7 +13757,7 @@ kairxadni
 kaitcu
 kai'u
 kaiyxogys
-ka'i zei sumtika
+ka'izeisumtika
 kajde
 kajna
 kajnyta'e
@@ -13886,13 +13902,14 @@ kanzeri
 kanzutla'i
 ka'o
 ka'o'ai
-ka'o'ai zei namcu
+ka'o'aizeinamcu
 ka'o'ei
 ka'omlu
 ka'orta
 ka'orze'a
-ka'o zei namcu
-ka'ozeino zei namcu
+ka'ozeinamcu
+ka'ozeino
+ka'ozeinozeinamcu
 ka'ozma
 kapcikna
 kapkandi
@@ -13938,7 +13955,8 @@ karnyfi'u
 karnyke'u
 karnypra
 karnysku
-karot zei spati
+karot
+karotzeispati
 karpo'i
 karpo'ijbe
 karsna
@@ -14199,7 +14217,7 @@ kitybli
 kitybo'i
 kityzba
 ki'u
-ki'u ma
+ki'uma
 ki'unai
 kixsku
 klacpe
@@ -14356,7 +14374,7 @@ kompeti
 kompli
 kompote
 konceto
-konceto zei pagbu
+koncetozeipagbu
 koncuptai
 kondomo
 konfabu
@@ -14565,7 +14583,7 @@ kulgu'a
 kulmu'o
 kulnrani
 kulnrfarsi
-kulnrfarsi zei lolgai
+kulnrfarsizeilolgai
 kulnrlietuva
 kulnrnorge
 kulnrnorgo
@@ -14661,7 +14679,8 @@ kybu
 ky.bu
 kylombys
 kyrym
-kyuiz zei cipra
+kyuiz
+kyuizzeicipra
 la
 la'a
 la'acu'i
@@ -14807,7 +14826,7 @@ larxau
 laryrakpra
 lasna
 lastu
-la su'oda
+lasu'oda
 lasybo'i
 lasydakli
 lasysilka
@@ -14836,7 +14855,7 @@ laucmo
 lauDZIS
 lau'e
 lau'i
-la'u ma
+la'uma
 launzu
 laurba'u
 laurbi'o
@@ -14892,7 +14911,7 @@ ledycilta
 le'e
 le'ei
 le'elkai
-le go'i
+lego'i
 lei
 le'i
 leicmi
@@ -14901,9 +14920,9 @@ lei'i
 le'ipli
 leiske
 leivla
-le jaica
-le jaigau
-le jaivi
+lejaica
+lejaigau
+lejaivi
 lejbai
 lejykarda
 lejykardymi'i
@@ -14959,7 +14978,7 @@ lertcitydetri
 lertermifra
 lervla
 leryrolmoivla
-le sego'i
+lesego'i
 lespei
 lespre
 lesrplatono
@@ -14967,16 +14986,16 @@ lesrxapsurdie
 leta
 letceFLAN
 letci
-le tego'i
+letego'i
 leti
 letu
 le'u
 lev
 leva
-le vego'i
+levego'i
 levi
 levu
-le xego'i
+lexego'i
 li
 li'a
 li'ai
@@ -15014,8 +15033,8 @@ li'imfri
 li'imse'i
 li'inta
 li'ismi
-li'i ze'ei ka
-li'i ze'ei nu
+li'ize'eika
+li'ize'einu
 lijda
 lijdrba'a,i
 lijdrdjaina
@@ -15036,7 +15055,7 @@ lilgundi
 lilias
 lilmudri
 lilneia
-lilneia zei cmene
+lilneiazeicmene
 lilrkerozine
 limfa
 limkla
@@ -15120,13 +15139,13 @@ loi'i
 lo'ikle
 lo'irlei
 loisli
-loi zei binsasu
-loi zei uinda
+loizeibinsasu
+loizeiuinda
 lojbab
 lojban
 lojbangirz
 lojbangirzu
-lojban zei simsa
+lojbanzeisimsa
 lojbau
 lojbaugri
 lojbo
@@ -15181,7 +15200,7 @@ lujvo
 lujyki'u
 lujyzba
 luksi
-lu li'u
+luli'u
 lumbrinki
 lumci
 lumcu'i
@@ -15291,7 +15310,7 @@ majrsto
 makas
 makcu
 makcubi
-makcubi zei xotli
+makcubizeixotli
 makfa
 makfartci
 makintoc
@@ -15509,9 +15528,9 @@ ma'urni'u
 mau'u
 mau'ucmo
 mau'ufri
-ma'u zei ionti
-ma'u zei majga
-ma'u zei namcu
+ma'uzeiionti
+ma'uzeimajga
+ma'uzeinamcu
 mavji
 mavypesxu
 mavystasu
@@ -15547,7 +15566,7 @@ medzo
 me'e
 me'ei
 me'ei'o
-me'e ma
+me'ema
 megbivysamsle
 megdje
 megdo
@@ -15561,7 +15580,7 @@ meiris
 meirmoi
 me'ispe
 mei'u
-mei zei ni'orsu
+meizeini'orsu
 meizma
 mejgu'e
 mejru'u
@@ -15718,7 +15737,8 @@ mikydje
 mikygra
 mildje
 milgra
-milis zei sucyskami
+milis
+miliszeisucyskami
 milsnidu
 milti
 miltre
@@ -15891,7 +15911,7 @@ mocle'u
 mocpecli'i
 modju
 modzi
-modzi zei bangu
+modzizeibangu
 mo'e
 mogle
 moi
@@ -16097,7 +16117,7 @@ mufspe
 mugle
 mu'i
 mu'i'ai
-mu'i ma
+mu'ima
 mu'inai
 mu'i'u
 mujybukyvro
@@ -16156,11 +16176,12 @@ mu'oi
 mu'onai
 mupcpa
 mupli
+mur
 murmura
 murse
 mursynalcando
 murta
-mur zei sucyskami
+murzeisucyskami
 muslo
 musmalsi
 mustlei
@@ -16185,8 +16206,8 @@ muvysutra
 muvytciga'a
 muvytcixi'u
 muvzva
-mu zei sumtika
-mu zei zgabube
+muzeisumtika
+muzeizgabube
 muzga
 muzyku'a
 my
@@ -16589,7 +16610,7 @@ ni'au
 nibgei
 nibji'i
 nibli
-ni bu
+nibu
 nibypoi
 nibysucyjvo
 nibyti'i
@@ -16606,7 +16627,7 @@ ni'e'oi
 nifkemtemsalri
 niftogu
 ni'i
-ni'i ma
+ni'ima
 ni'inai
 nikitas
 nikle
@@ -16633,7 +16654,8 @@ nilji'etei
 niljigrau
 nilkla
 nilmulyuidje
-nilmu'o zei uidje
+nilmu'o
+nilmu'ozeiuidje
 nilmuvyselbai
 nilnalci'o
 nilre'i
@@ -16731,8 +16753,8 @@ ni'u
 ni'udzau
 niutni
 ni'utni
-ni'u zei ionti
-ni'u zei namcu
+ni'uzeiionti
+ni'uzeinamcu
 nivji
 nivycreka
 nix
@@ -16879,12 +16901,13 @@ notsku
 no'u
 novmbero
 noxtino
-nozeika'o zei namcu
+nozeika'o
+nozeika'ozeinamcu
 nu
 nu'a
 nuansa
 nu'ansa
-nu bu
+nubu
 nudle
 nu'e
 nu'ecu'i
@@ -17370,18 +17393,18 @@ paxlai
 paxra
 paxrmari
 paze
-pa zei brinefa
-pa zei funseia
-pa zei jarnezi
-pa zei jurfuga
-pa zei karsna
-pa zei meksota
-pa zei mektika
-pa zei sumsenime
-pa zei sumtifa
-pa zei sumtika
-pa zei taulka
-pa zei zgabube
+pazeibrinefa
+pazeifunseia
+pazeijarnezi
+pazeijurfuga
+pazeikarsna
+pazeimeksota
+pazeimektika
+pazeisumsenime
+pazeisumtifa
+pazeisumtika
+pazeitaulka
+pazeizgabube
 paznu
 pazvau
 pazvaufli
@@ -17439,9 +17462,10 @@ peixru
 peizlemustiei
 pejgau
 pejri'a
+pejypoi
 pejypoici'a
-pejypoici'a zei uidje
-pejypoi zei uidje
+pejypoici'azeiuidje
+pejypoizeiuidje
 pekin
 peldei
 peldjasluni
@@ -17513,7 +17537,8 @@ pevjicla
 pevjifpedvla
 pevna
 pevrisnyjelca
-pevyca'o zei uidje
+pevyca'o
+pevyca'ozeiuidje
 pevycimjvo
 pevycuvgau
 pevyselma'o
@@ -17838,7 +17863,7 @@ porselvai
 porsere
 porsi
 porsice
-porsi zei uidje
+porsizeiuidje
 porsumji
 portcelanu
 porto
@@ -18393,20 +18418,20 @@ re'u
 re'ucti
 revyskapi
 rexsa
-re zei brinefa
-re zei funseia
-re zei jurfuga
-re zei karsna
-re zei meksota
-re zei mektika
-re zei sumsenime
-re zei sumsenimere
-re zei sumtika
-re zei taulka
-re zei zgabube
+rezeibrinefa
+rezeifunseia
+rezeijurfuga
+rezeikarsna
+rezeimeksota
+rezeimektika
+rezeisumsenime
+rezeisumsenimere
+rezeisumtika
+rezeitaulka
+rezeizgabube
 ri
 ri'a
-ri'a ma
+ri'ama
 ri'anai
 ri'au
 ribga
@@ -18991,8 +19016,8 @@ sadrai
 sadyda'a
 sa'e
 sa'ei
-sa'ei zei gerna
-sa'ei zei valsi
+sa'eizeigerna
+sa'eizeivalsi
 sa'emau'i
 sa'enai
 sa'erjgita
@@ -19086,7 +19111,7 @@ samgotro
 samjo'e
 samjongau
 samjudri
-samjudri zei uidje
+samjudrizeiuidje
 samka'u
 samkei
 samki'o
@@ -19312,6 +19337,7 @@ sefygundi
 sega'a
 segau
 segei'ai
+sego'i
 sei
 se'i
 sei'a
@@ -19343,7 +19369,7 @@ seji'u
 seka'a
 sekai
 seka'i
-sekai ma
+sekaima
 seki'i
 seki'u
 seki'unai
@@ -21068,7 +21094,7 @@ simda'a
 simda'e
 simda'i
 simfoni
-simfoni zei pagbu
+simfonizeipagbu
 simfra
 simfrica
 simgle
@@ -21118,10 +21144,10 @@ si'o
 si'oi'e
 si'omdu
 si'onsi
-si'o ze'ei du'u
-si'o ze'ei ka
-si'o ze'ei nu
-si'o ze'ei poi'i
+si'oze'eidu'u
+si'oze'eika
+si'oze'einu
+si'oze'eipoi'i
 sipfru
 sipkemdjusa'a
 sipku'a
@@ -21208,7 +21234,7 @@ skepre
 skestu
 skezu'e
 skicu
-skicu zei uidje
+skicuzeiuidje
 skicyuidje
 skientia
 skifa
@@ -21257,7 +21283,7 @@ sladei
 slafagri
 slagei
 slaka
-slaka bu
+slakabu
 slakypau
 slakypaucibmei
 slakypaupavmei
@@ -21537,7 +21563,7 @@ sormei
 sorna'a
 sornai
 sornairauci'e
-sornai zei raurci'e
+sornaizeiraurci'e
 sorni
 sorpa'a
 sorpa'i
@@ -22090,7 +22116,7 @@ sticirosi
 stidi
 stigau
 stika
-stika zei uidje
+stikazeiuidje
 stima
 stinalspe
 stiri'a
@@ -22192,6 +22218,7 @@ sumpoi
 sumrei
 sumro
 sumsenime
+sumsenimere
 sumseninu
 sumsenixu
 sumsmi
@@ -22214,6 +22241,7 @@ sunxi'o
 sunzdo
 sunzdopre
 su'o
+su'oda
 su'oi
 suomen
 suomis
@@ -22338,14 +22366,14 @@ tagysna
 tai
 ta'i
 taibeis
-tai da'i
-tai da'inai
+taida'i
+taida'inai
 ta'idzu
 tai'e'i
 taifnu
 tai'i
 tai'i'e
-ta'i ma
+ta'ima
 ta'inri'a
 tairbagycukykruca
 ta'irbi'o
@@ -22436,7 +22464,7 @@ tapsni
 tapydansu
 tapygutci
 tarbi
-tarbi zei asna
+tarbizeiasna
 tarboi
 tarbu'i
 tarby'asna
@@ -22624,7 +22652,7 @@ tcipli
 tciromei
 tcita
 tcitama
-tcita zei uidje
+tcitazeiuidje
 tcitigi
 tcitygau
 tcityta'o
@@ -22688,6 +22716,7 @@ tefsujme'o
 tefteli
 tega'a
 tegei'ai
+tego'i
 tegyga'e
 tegygaska'e
 tegzga
@@ -22764,7 +22793,7 @@ te'o'a
 te'odlito
 te'oi'i
 te'oi'oi
-te'o zei dugri
+te'ozeidugri
 tepa'a
 tepcau
 tepi'o
@@ -23715,7 +23744,7 @@ to'apra
 to'asli
 to'asti
 to'asto
-to'a zei lerfu
+to'azeilerfu
 tocnunpe'i
 tocyrapli
 todbi'olanka
@@ -23736,7 +23765,7 @@ to'eri'a
 to'eri'anai
 to'eseja'e
 to'eseja'enai
-to'e zei kancuka'e
+to'ezeikancuka'e
 togdicra
 togle'u
 togmo'a
@@ -24193,7 +24222,8 @@ turbana
 turbaro
 turdida
 turdu'i
-turing zei sucyskami
+turing
+turingzeisucyskami
 turko
 turne'i
 turnela
@@ -24220,7 +24250,7 @@ tu'ursluni
 ty
 tylidos
 tyrontos
-ty zei creka
+tyzeicreka
 .u
 .ua
 .u'a
@@ -24231,7 +24261,7 @@ UAcintyn
 .uai
 .u'ai
 .uaigri
-.uaigri zei eikse
+.uaigrizeieikse
 .uakci
 .uakmaio
 .ualdo
@@ -24240,12 +24270,14 @@ UAcintyn
 .uanji
 .uanmo
 .u'anmo
+uanta
 .uaransis
 .uargali
 .uatno
 .uau
 .ubu
-.ubutycys zei cacra
+.ubutycys
+.ubutycyszeicacra
 .ue
 .u'e
 .ueb
@@ -24266,6 +24298,7 @@ UAcintyn
 .uenmo
 .u'enmo
 .uensni
+uente
 .uenzi
 .uepei
 .uerna
@@ -24275,7 +24308,8 @@ UAcintyn
 .uibu
 .uicmo
 .uidja
-.uidja zei tanbo
+.uidjazeitanbo
+uidje
 .uidje
 .uigru
 .uikipedias
@@ -24284,6 +24318,7 @@ UAcintyn
 .u'imla
 .uinai
 .u'inai
+uinda
 .uinda
 .uinmo
 .u'inmo
@@ -24338,7 +24373,7 @@ UAcintyn
 .uxanes
 .uy
 .u'y
-.u zei bangu
+.uzeibangu
 va
 va'a
 va'ai
@@ -24391,7 +24426,7 @@ vamtu
 vamveile'ikarda
 vanbarja
 vanbi
-vanbi zei uidje
+vanbizeiuidje
 vanci
 vandala
 vandani
@@ -24470,6 +24505,7 @@ vefsfa
 vefydji
 vega'a
 vegei'ai
+vego'i
 vei
 ve'i
 vei'i
@@ -24770,7 +24806,7 @@ vi'e
 vi'ecpe
 vi'ei'e
 vi'ertarci
-vi'e zei saske
+vi'ezeisaske
 vifne
 vi'i
 vijblo
@@ -24796,7 +24832,7 @@ vilmu'u
 viltce
 vilti'a
 vilyle'a
-vi ma
+vima
 vimcu
 vimku'a
 vimkumstu
@@ -24992,8 +25028,8 @@ vorlu'a
 vorme
 votcan
 vo'u
-vo zei sumtika
-vo zei zgabube
+vozeisumtika
+vozeizgabube
 vozyfi'i
 vrabatke
 vraga
@@ -25332,8 +25368,8 @@ xavyto'a
 xavyvanbi
 xaxre
 xazdo
-xa zei sumtika
-xa zei zgabube
+xazeisumtika
+xazeizgabube
 xe
 xe'akre
 xe'au
@@ -25348,6 +25384,7 @@ xedypa'i
 xe'e
 xe'ei
 xe'enai
+xego'i
 xei
 xei'a
 xei'i
@@ -25649,20 +25686,20 @@ xusyvei
 xutla
 xu'u
 xu'u'i
-xu zei preti
+xuzeipreti
 xy
-xy bu
+xybu
 xy.bu
 xyngon
 xy'y
-xy zei dirce
-xy zei gusni
-xy zei kantu
+xyzeidirce
+xyzeigusni
+xyzeikantu
 .y
 .ybu
 .y'i
 .y'y
-.y'y bu
+.y'ybu
 .y'y.bu
 .yyy
 za
@@ -25674,8 +25711,8 @@ zacfoncu'u
 zacpanka
 za'e
 za'ei
-za'e zei lujvo
-za'e zei valsi
+za'ezeilujvo
+za'ezeivalsi
 zaglamtu'e
 zagvi'agau
 zagyfe'a
@@ -25698,6 +25735,7 @@ zalmlo
 zalre'u
 zaltapla
 zalvi
+zamgri
 zanbebna
 zancari
 zancimstu
@@ -25859,7 +25897,7 @@ zeiljvo
 ze'ilsipna
 zei'oi
 ze'irsaivi
-ze'i zei seldejni
+ze'izeiseldejni
 zeki'o
 zekri
 zelcte
@@ -25903,7 +25941,7 @@ zerzu'e
 zetcla
 zetro
 ze'u
-ze'u zei seldejni
+ze'uzeiseldejni
 zevla
 zevlyjvo
 zevykla
@@ -26090,7 +26128,7 @@ zo'oi
 zo'ombi
 zo'onai
 zo'oro'u
-zo si si zei fa'o
+zosisizeifa'o
 zo'u
 zu
 zu'a
