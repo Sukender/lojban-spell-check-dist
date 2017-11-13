@@ -1,15 +1,17 @@
 SET UTF-8
 
-LANG loj
+LANG jbo
 
 #FLAG ASCII
 
 # DUMMY VALUE! To be updated
-TRY aeiouy'bcdfgjklmnpstvxz.,
+TRY .,'aeiouybcdfgjklmnpstvxz
 
 IGNORE ()[];:!?
 
 WORDCHARS .,'
+SUGSWITHDOTS
+
 REP 1
 REP h '
 
