@@ -6,12 +6,18 @@ Feel free to participate by commenting, doing pull requests, or emailing me: suk
 
 In the future, dictionaries __may__ be bundled in software.
 
-- **libreoffice**: [Lojban LibreOffice / OpenOffice spell check dictionary](https://github.com/Sukender/lojban-spell-check-dist/raw/master/libreoffice/libreoffice-openoffice-lojban-dictionary-jbo-v2017.11.13.oxt)
+- **libreoffice**: [Lojban LibreOffice / OpenOffice spell check dictionary](https://github.com/Sukender/lojban-spell-check-dist/raw/master/libreoffice/libreoffice-openoffice-lojban-dictionary-jbo-v2020.03.05.oxt)
   - Simply double-click it to install or update.
   - You may need to restart the application, and select the language of your document.
-- **firefox**: [Lojban Mozilla Firefox / Thunderbird spell check dictionary](https://github.com/Sukender/lojban-spell-check-dist/raw/master/firefox/firefox-thunderbird-lojban-dictionary-jbo-v2017.11.13.xpi)
-  - Firefox : Double-click it to install. If the file extension is not associated, simply tell your system to open it with Mozilla Firefox.
-  - Thunderbird : Extensions > Install a module from a file...
+- **firefox43**: [Lojban Mozilla Firefox spell check dictionary](https://addons.mozilla.org/fr/firefox/addon/lojban-spell-check/)
+  - Official Firefox addons web site.
+  - Designed for versions 43 and up.
+- **thunderbird68**: [Lojban Mozilla Thunderbird spell check dictionary](https://addons.thunderbird.net/fr/thunderbird/addon/lojban-spell-check/)
+  - Official Thunderbird addons web site.
+  - Designed for versions 68 and up.
+- **firefox-legacy**: [Lojban Mozilla Firefox / Thunderbird spell check dictionary](https://github.com/Sukender/lojban-spell-check-dist/raw/master/firefox-legacy/firefox-legacy-thunderbird-lojban-dictionary-jbo-v2020.03.05.xpi)
+  - Firefox before v43: Double-click it to install. If the file extension is not associated, simply tell your system to open it with Mozilla Firefox.
+  - Thunderbird before v68: `Extensions > Install a module from a file...`
 - **hunspell**: Hunspell / Myspell files
   - For advanced users. Under Linux, You may want to copy/install in ```/usr/share/hunspell/``` and ```/usr/share/myspell/dicts``` (with or without symlinks).
 - **opera**: Opera-compatible dictionary
